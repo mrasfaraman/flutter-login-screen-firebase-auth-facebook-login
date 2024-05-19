@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841904913683",
+    "project_id": "portfolio-3066d",
+    "storage_bucket": "portfolio-3066d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841904913683:android:f04dd2b707986eb006eee6",
+        "android_client_info": {
+          "package_name": "com.instaflutter.free_login_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuuOnS7aspXfR1zDW7Uai2Ovcp_KzribA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
